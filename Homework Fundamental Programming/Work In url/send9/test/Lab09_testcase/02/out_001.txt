@@ -1,0 +1,10 @@
+<class 'int'> 68
+<class 'int'> 205
+<class 'int'> 467
+<class 'int'> 20
+<class 'int'> 40
+<class 'int'> 824
+<class 'int'> 313
+<class 'int'> 377
+<class 'int'> 956
+<class 'int'> 770

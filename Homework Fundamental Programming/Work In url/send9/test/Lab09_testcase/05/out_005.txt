@@ -1,0 +1,15 @@
+<class 'int'> 284
+<class 'int'> 4324
+<class 'int'> 2261
+<class 'int'> 1269
+<class 'int'> 3529
+<class 'int'> 1424
+<class 'int'> 7474
+<class 'int'> 312
+<class 'int'> 36810857
+<class 'int'> 49337088
+<class 'int'> 93236382
+<class 'int'> 85055888
+<class 'int'> 17193965
+<class 'int'> 13244665
+<class 'int'> 42400277

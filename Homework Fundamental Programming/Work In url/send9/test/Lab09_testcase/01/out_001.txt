@@ -1,0 +1,10 @@
+<class 'int'> 1
+<class 'int'> 1
+<class 'int'> 2
+<class 'int'> 9
+<class 'int'> 1
+<class 'int'> 1
+<class 'int'> 1
+<class 'int'> 1
+<class 'int'> 1
+<class 'int'> 1

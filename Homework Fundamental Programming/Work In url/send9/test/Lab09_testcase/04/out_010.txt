@@ -1,0 +1,15 @@
+<class 'int'> 43
+<class 'int'> 3
+<class 'int'> 21
+<class 'int'> 683
+<class 'int'> 3
+<class 'int'> 85
+<class 'int'> 21
+<class 'int'> 171
+<class 'int'> 21845
+<class 'int'> 2731
+<class 'int'> 11
+<class 'int'> 0
+<class 'int'> 21
+<class 'int'> 699051
+<class 'int'> 44739243

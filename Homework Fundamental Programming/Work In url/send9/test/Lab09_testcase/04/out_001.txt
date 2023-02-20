@@ -1,0 +1,15 @@
+<class 'int'> 1
+<class 'int'> 341
+<class 'int'> 85
+<class 'int'> 85
+<class 'int'> 341
+<class 'int'> 21
+<class 'int'> 5
+<class 'int'> 0
+<class 'int'> 44739243
+<class 'int'> 43691
+<class 'int'> 21
+<class 'int'> 715827883
+<class 'int'> 1398101
+<class 'int'> 715827883
+<class 'int'> 21

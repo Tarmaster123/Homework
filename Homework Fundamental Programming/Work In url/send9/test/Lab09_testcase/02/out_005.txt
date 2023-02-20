@@ -1,0 +1,10 @@
+<class 'int'> 331
+<class 'int'> 963
+<class 'int'> 553
+<class 'int'> 252
+<class 'int'> 514
+<class 'int'> 396
+<class 'int'> 90
+<class 'int'> 573
+<class 'int'> 445
+<class 'int'> 757
